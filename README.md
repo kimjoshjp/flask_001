@@ -1,2 +1,2 @@
 # flask_001
-deploy flask app
+Deploy Flask app on Azure (APP Service) and Heroku for Tesing purpose.
